@@ -1,0 +1,11 @@
+___awdiv: CODE, 229 0 114
+__isr: CODE, 534 0 83
+_Timer_Init: CODE, 757 0 11
+___awmod: CODE, 442 0 92
+_main: CODE, 652 0 24
+_Port_Init: CODE, 696 0 17
+_set_time: CODE, 343 0 99
+_Time_Init: CODE, 729 0 16
+_Delay: CODE, 617 0 35
+_Display: CODE, 19 0 210
+Total: 701
